@@ -2,7 +2,7 @@
 
 ## Примеры парсеров:
 
-### Интернет-магазин автозапчастей и аксессуаров АВТОАЛЬФА
+### Интернет-магазин автозапчастей и аксессуаров
 
 - avtoalfa.py - BeautifulSoup, requests
 - avtoalfa_asyncio.py - BeautifulSoup, asyncio, aiohttp
